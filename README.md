@@ -36,3 +36,7 @@ Updated dependencies with modern best practices - ID: 6pyt8ckn
 ## Update 2025-10-27 19:25:42
 Fixed bug to improve stability - ID: gubkl2fs
 
+
+## Update 2025-10-27 19:25:50
+Added configuration for better user experience - ID: jf5dnfoh
+
